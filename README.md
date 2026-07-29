@@ -1,3 +1,4 @@
 # algorithm-study-recording-by-Lee
-a recording of the experience to study algorithm and data arcihtecture.
-I will update my learning process weekly. 
+我学习数据结构算法的记录。
+包含题单，笔记，与我的代码。
+我从零基础开始学习的，经过半年的学习与coding，现在独立解决问题的思维能力大大提高了，我刚开始就解除了一些dijkstra算法，并查集算法之类的内容，当时连题解都完全看不懂，现在终于能有自己的思路了。
